@@ -11,7 +11,7 @@ This is a simple Python program that simulates a coffee machine. Users can choos
 
 ## How to Use
 
-1. Run the `coffee_machine.py` file.
+1. Run the `main.py` file.
 2. Follow the prompts to select a drink, insert coins, and receive your drink.
 3. You can also view the available resources by typing "report".
 4. To close the program, type "off".
