@@ -21,7 +21,7 @@ Flashy is a simple flashcard application built with Python and Tkinter that help
 ## Usage
 
 1. Ensure you have Python installed on your system.
-2. Run the application by executing the 'main.py' file.
+2. Run the application by executing the ´´´main.py´´´ file.
 3. Click on the "Unknown" button if you don't know the translation of a word, or the "Known" button if you already know it.
 4. The application will automatically proceed to the next flashcard.
 
