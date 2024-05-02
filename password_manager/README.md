@@ -13,8 +13,7 @@ This is a simple password manager application built using Python's Tkinter libra
 
 1. Clone this repository to your local machine using `git clone`.
 2. Make sure you have Python installed on your machine.
-3. Install the required dependencies using `pip install -r requirements.txt`.
-4. Run the application using `python password_manager.py`.
+3. Run the application using `main.py`.
 
 ## Usage
 
@@ -24,10 +23,6 @@ This is a simple password manager application built using Python's Tkinter libra
 4. Click on the **Add** button to save the website, email, and password information.
 5. To retrieve a password, enter the website and click on the **Search** button.
 6. The password will be displayed in a popup message box.
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests for any improvements or bug fixes you'd like to see.
 
 ## License
 
